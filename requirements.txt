@@ -7,3 +7,7 @@ PyJWT
 python-jwt==3.2.6
 passlib==1.7.2
 packaging==20.4
+phonenumbers==8.12.5
+twilio
+flask-login
+Flask-WTF
