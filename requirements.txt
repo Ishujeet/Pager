@@ -4,7 +4,7 @@ flask-apispec
 webargs<6.0.0
 SQLAlchemy==1.3.17
 PyJWT
-python-jwt==3.2.6
+python-jwt==3.3.4
 passlib==1.7.2
 packaging==20.4
 phonenumbers==8.12.5
